@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Form Helper</string>
+    <string name="service_desc">Shows a small floating panel over other apps. When you tap its buttons it reads the form on screen, fills text boxes, picks dropdown options and taps Next using the data you saved. It does nothing until you tap a button.</string>
+</resources>
